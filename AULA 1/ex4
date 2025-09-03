@@ -1,0 +1,5 @@
+raio = 5
+PI = 3.14159
+area = PI * raio**2
+
+print(f"A area da circunferencia de raio {raio} é {area:.2f}")
